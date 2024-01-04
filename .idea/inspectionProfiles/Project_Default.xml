@@ -1,0 +1,177 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="{{i.name}}" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="img" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="six" />
+            <item index="1" class="java.lang.String" itemvalue="wrapt" />
+            <item index="2" class="java.lang.String" itemvalue="asgiref" />
+            <item index="3" class="java.lang.String" itemvalue="astroid" />
+            <item index="4" class="java.lang.String" itemvalue="toml" />
+            <item index="5" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="6" class="java.lang.String" itemvalue="lazy-object-proxy" />
+            <item index="7" class="java.lang.String" itemvalue="appdirs" />
+            <item index="8" class="java.lang.String" itemvalue="filelock" />
+            <item index="9" class="java.lang.String" itemvalue="colorama" />
+            <item index="10" class="java.lang.String" itemvalue="Django" />
+            <item index="11" class="java.lang.String" itemvalue="mccabe" />
+            <item index="12" class="java.lang.String" itemvalue="pylint" />
+            <item index="13" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="14" class="java.lang.String" itemvalue="distlib" />
+            <item index="15" class="java.lang.String" itemvalue="isort" />
+            <item index="16" class="java.lang.String" itemvalue="pytz" />
+            <item index="17" class="java.lang.String" itemvalue="Pillow" />
+            <item index="18" class="java.lang.String" itemvalue="pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E231" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="object" />
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="code_challenge_6.manju" />
+          <option value="code_challenge_11.vehicle_details" />
+          <option value="tkinterp2.def__int__" />
+          <option value="tkinterp2.*" />
+          <option value="tkinterpc.def__int__" />
+          <option value="tkinterbasic.def__int__" />
+          <option value="object.save" />
+          <option value="travelapp.urls" />
+          <option value="travelproject.urls.travelapp" />
+          <option value="admin" />
+          <option value="django.contrib" />
+          <option value="django.*" />
+          <option value="paperproject.paperproject.urls.django" />
+          <option value="bagproject.settings.STATICFILE_DIRS" />
+          <option value="bagproject.settings.*" />
+          <option value="travelapp.models.self" />
+          <option value="travelapp.models.*" />
+          <option value="codeapp.views.User" />
+          <option value="dict.__mod__" />
+          <option value="codeapp.views.password" />
+          <option value="codeapp.views.AbstractUser" />
+          <option value="flowerapp.models.place.objects" />
+          <option value="movieapp.models.Movie" />
+          <option value="movieapp.models.Movie.object" />
+          <option value="movieapp.models.Movie.objects" />
+          <option value="todosapp.models.*" />
+          <option value="contactapp.urls.urlspatterns" />
+          <option value="contactapp.urls.urlpatterns" />
+          <option value="contactapp.models.Movie.objects" />
+          <option value="contactapp.urls.contactapp" />
+          <option value="contactproject.settings.false" />
+          <option value="webscraber_app.views.links" />
+          <option value="webscraber_app.views.label" />
+          <option value="webscraber_app.views.Links" />
+          <option value="webscraber_app.views.href" />
+          <option value="webscraber_app.views.text" />
+          <option value="webscraber_app.views.Label" />
+          <option value="webscraber_app.views.Link" />
+          <option value="webscraber_app.views.g" />
+          <option value="list.objects" />
+          <option value="webscraber_app.views.site" />
+          <option value="shop.models.product.objects" />
+          <option value="shop.views.product" />
+          <option value="product.*" />
+          <option value="shop.models.Category.category" />
+          <option value="shop.views.Product" />
+          <option value="search_app.urls.urlpatterns" />
+          <option value="cart.views.product" />
+          <option value="cart.models.Cart.ObjectDoesNotExist" />
+          <option value="cart.models.Cart.objects" />
+          <option value="cart.models.CartItem.DoesNotExist" />
+          <option value="cart.models.CartItem.objects" />
+          <option value="cart.models.Cart.DoesNotExist" />
+          <option value="str.__pos__" />
+          <option value="restapp.models.Task.objects" />
+          <option value="cv2.setMousecallback" />
+          <option value="tracking.new_image" />
+          <option value="tracking.image" />
+          <option value="trackingvideo.image" />
+          <option value="websiteproject.webapp.views.cartData" />
+          <option value="websiteproject.webapp.models.Department.objects" />
+          <option value="travelproject.codeapp.urls.travelappimport" />
+          <option value="bagproject.flowerapp.views.flowerapp" />
+          <option value="travelproject.travelapp.views.travelapp" />
+          <option value="travelproject.travelapp.urls.modelsimport" />
+          <option value="travelproject.travelapp.models.movie" />
+          <option value="travelproject.codeapp.urls.travelproject" />
+          <option value="shop.models.Product.objects" />
+          <option value="travelproject.travelapp.models.movie.object" />
+          <option value="travelproject.travelapp.models.movie.objects" />
+          <option value="travelproject.travelapp.models.member.objects" />
+          <option value="OnlineShopping.settings.os" />
+          <option value="website.models.Order.name" />
+          <option value="website.models.Customer.objects" />
+          <option value="ecommerce.store.models.Product.objects" />
+          <option value="ecommerce.store.models.OrderItem.objects" />
+          <option value="ecommerce.store.models.Order.objects" />
+          <option value="ecommerce.store.models.Customer.objects" />
+          <option value="ecommerce.store.models.Order.orderitem_set" />
+          <option value="todosapp.views.task1" />
+          <option value="shop.models.Category.objects" />
+          <option value="cart.views.carta" />
+          <option value="webapp.views.form.is_valid" />
+          <option value="webapp.views.form.save" />
+          <option value="pathlib.Path.__add__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

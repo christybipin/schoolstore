@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>welcome</title>
+</head>
+<body>
+<h2> FORM </h2>
+<form method="post">
+              {% csrf_token %}
+    <input type="text" name="name" placeholder="Enter your name" > <br>
+       <input type="date" name="date" placeholder="Enter your date"><br>
+       <input type="text" name="age" placeholder="Enter your age"><br>
+       <input type="text" name="phoneNumber" placeholder="Enter your PhoneNumber"><br>
+       <input type="email" name="email" placeholder="Enter your Email"><br>
+       <input type="text" name="address" placeholder="Enter your Address"><br>
+    <div class="col-xs-6">
+  <select class="form-control" name="select1" id="select1">
+      <option value="" selected>COMPUTER SCIENCE</option>
+     <option value="1">MCA</option>
+      <option value="2">MSC</option>
+    <option value="3">BCA</option>
+    <option value="4">BSC</option>
+  </select>
+</div>
+     <div class="col-xs-6">
+  <select class="form-control" name="select2" id="select2">
+      <option value="" selected>COMMERCE</option>
+    <option value="1">MBA</option>
+      <option value="2">MCOM</option>
+    <option value="3">BBA</option>
+    <option value="4">BCOM</option>
+  </select>
+</div>
+     <div class="col-xs-6">
+  <select class="form-control" name="select3" id="select3">
+      <option value="" selected>SCIENCE</option>
+    <option value="1">MBBS</option>
+      <option value="2">BTECH</option>
+    <option value="3">MSC</option>
+    <option value="4">BSC</option>
+  </select>
+</div>
+    <input type="submit">
+</form>
+
